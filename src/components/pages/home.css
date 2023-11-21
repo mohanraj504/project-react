@@ -1,0 +1,60 @@
+.service-div-main
+{
+    width: 100%;
+    height: auto;
+    justify-content: center;
+    display: flex;
+    box-sizing: border-box;
+    background-color: lavender;
+    font-family: 'Montserrat light';
+    
+}
+.book-servive
+{
+    width: 80%;
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color:#563CB1;
+    column-gap: 60px;
+    font-family: 'Montserrat light';
+    border-radius: 5px;
+    
+
+}
+.service-card
+{
+    background-color: white;
+    height: max-content;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    box-sizing: border-box;
+    font-family: 'Montserrat light';
+    border-radius: 5px;
+    box-shadow: #563CB1(0, 0, 0, 0.17) 0px -23px 25px 0px inset, #563CB1(0, 0, 0, 0.15) 0px -36px 30px 0px inset, #563CB1(0, 0, 0, 0.1) 0px -79px 40px 0px inset, #563CB1(0, 0, 0, 0.06) 0px 2px 1px, #563CB1(0, 0, 0, 0.09) 0px 4px 2px, #563CB1(0, 0, 0, 0.09) 0px 8px 4px, #563CB1(0, 0, 0, 0.09) 0px 16px 8px, #563CB1(0, 0, 0, 0.09) 0px 32px 16px;
+ 
+}
+center{
+    margin-top: 50px;
+    color: black;
+    font-family: 'Montserrat light';
+
+    
+}
+.btn{
+    margin: 28px;
+    width: 165px;
+    height: 60px;
+    border-radius: 30px;
+    background:#563CB1;
+    border: none;
+    font-family: 'Montserrat';
+    font-size: 20px;
+    color: white;
+    box-shadow: 5px 5px 20px #05020f;
+    
+}
